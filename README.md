@@ -10,9 +10,11 @@ This website serves as a professional and academic portfolio of my projects and 
 
 The current iteration of this website is made using StartBootstrap's "Resume" template. This will only be used for the short-term, and a more comprehensive website will be built beginning in January 2027.
 
-## Technology
+## Development Notes
 
-Built using HTML, CSS, [Bootstrap](https://getbootstrap.com/), and JavaScript. Credit provided to StartBootstrap for the [Resume website template](https://github.com/startbootstrap/startbootstrap-resume), freely licensed under the MIT License.
+This site was built and is maintained by me, Alfredo Cisneros Romero. Built using HTML, CSS, [Bootstrap](https://getbootstrap.com/), and JavaScript. Credit is provided to StartBootstrap for the [Resume website template](https://github.com/startbootstrap/startbootstrap-resume), freely licensed under the MIT License.
+
+I used [Claude](https://claude.ai) as a development coach for me to learn how to make this website and to use Git with my IDE. Although some code in this repository was suggested to me by Claude's AI capabilities, no substantial portions were made or edited with AI tools. In cases where AI tools have made meaningful contributions to my code, I made sure to implement all suggestions myself (or with my oversight in certain cases), for the purposes of learning. 
 
 ## Copyright and License
 
