@@ -1,7 +1,8 @@
-
 # ALLOW MAIN SEARCH ENGINES TO INDEX WEBSITE
 User-agent: *
 Allow: /
+
+Sitemap: https://alfredocr.com/sitemap.xml
 
 # RESTRICT ACCESS TO FOREIGN SEARCH ENGINES
 User-agent: Baiduspider
